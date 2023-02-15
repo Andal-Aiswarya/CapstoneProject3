@@ -1,0 +1,86 @@
+The total number of users registered is: 14
+The total number of tasks generated and tracked is: 20
+----------------[admin]----------------------------
+The total number of tasks assigned to admin is : 0
+The percentage of tasks assigned to admin is : 0.0%
+The percentage of tasks assigned to admin that have been completed is:0.0%
+The percentage of tasks assigned to admin that must still be completed is:0.0%
+The percentage of tasks assigned to admin that have not yet been completed and are overdue is: 0.0%
+----------------[aishu]----------------------------
+The total number of tasks assigned to aishu is : 1
+The percentage of tasks assigned to aishu is : 5.0%
+The percentage of tasks assigned to aishu that have been completed is:100.0%
+The percentage of tasks assigned to aishu that must still be completed is: 0.0%
+The percentage of tasks assigned to aishu that have not yet been completed and are overdue is: 0.0%
+----------------[popo]----------------------------
+The total number of tasks assigned to popo is : 3
+The percentage of tasks assigned to popo is : 15.0%
+The percentage of tasks assigned to popo that have been completed is:0.0%
+The percentage of tasks assigned to popo that must still be completed is: 100.0%
+The percentage of tasks assigned to popo that have not yet been completed and are overdue is: 66.66666666666666%
+----------------[fds]----------------------------
+The total number of tasks assigned to fds is : 0
+The percentage of tasks assigned to fds is : 0.0%
+The percentage of tasks assigned to fds that have been completed is:0.0%
+The percentage of tasks assigned to fds that must still be completed is:0.0%
+The percentage of tasks assigned to fds that have not yet been completed and are overdue is: 0.0%
+----------------[fore]----------------------------
+The total number of tasks assigned to fore is : 3
+The percentage of tasks assigned to fore is : 15.0%
+The percentage of tasks assigned to fore that have been completed is:0.0%
+The percentage of tasks assigned to fore that must still be completed is: 100.0%
+The percentage of tasks assigned to fore that have not yet been completed and are overdue is: 66.66666666666666%
+----------------[for]----------------------------
+The total number of tasks assigned to for is : 1
+The percentage of tasks assigned to for is : 5.0%
+The percentage of tasks assigned to for that have been completed is:100.0%
+The percentage of tasks assigned to for that must still be completed is: 0.0%
+The percentage of tasks assigned to for that have not yet been completed and are overdue is: 0.0%
+----------------[isi]----------------------------
+The total number of tasks assigned to isi is : 0
+The percentage of tasks assigned to isi is : 0.0%
+The percentage of tasks assigned to isi that have been completed is:0.0%
+The percentage of tasks assigned to isi that must still be completed is:0.0%
+The percentage of tasks assigned to isi that have not yet been completed and are overdue is: 0.0%
+----------------[newee]----------------------------
+The total number of tasks assigned to newee is : 2
+The percentage of tasks assigned to newee is : 10.0%
+The percentage of tasks assigned to newee that have been completed is:0.0%
+The percentage of tasks assigned to newee that must still be completed is: 100.0%
+The percentage of tasks assigned to newee that have not yet been completed and are overdue is: 0.0%
+----------------[rame]----------------------------
+The total number of tasks assigned to rame is : 1
+The percentage of tasks assigned to rame is : 5.0%
+The percentage of tasks assigned to rame that have been completed is:0.0%
+The percentage of tasks assigned to rame that must still be completed is: 100.0%
+The percentage of tasks assigned to rame that have not yet been completed and are overdue is: 0.0%
+----------------[bob]----------------------------
+The total number of tasks assigned to bob is : 2
+The percentage of tasks assigned to bob is : 10.0%
+The percentage of tasks assigned to bob that have been completed is:50.0%
+The percentage of tasks assigned to bob that must still be completed is: 50.0%
+The percentage of tasks assigned to bob that have not yet been completed and are overdue is: 0.0%
+----------------[ais]----------------------------
+The total number of tasks assigned to ais is : 1
+The percentage of tasks assigned to ais is : 5.0%
+The percentage of tasks assigned to ais that have been completed is:0.0%
+The percentage of tasks assigned to ais that must still be completed is: 100.0%
+The percentage of tasks assigned to ais that have not yet been completed and are overdue is: 100.0%
+----------------[a]----------------------------
+The total number of tasks assigned to a is : 1
+The percentage of tasks assigned to a is : 5.0%
+The percentage of tasks assigned to a that have been completed is:0.0%
+The percentage of tasks assigned to a that must still be completed is: 100.0%
+The percentage of tasks assigned to a that have not yet been completed and are overdue is: 0.0%
+----------------[admine]----------------------------
+The total number of tasks assigned to admine is : 1
+The percentage of tasks assigned to admine is : 5.0%
+The percentage of tasks assigned to admine that have been completed is:100.0%
+The percentage of tasks assigned to admine that must still be completed is: 0.0%
+The percentage of tasks assigned to admine that have not yet been completed and are overdue is: 0.0%
+----------------[doge]----------------------------
+The total number of tasks assigned to doge is : 1
+The percentage of tasks assigned to doge is : 5.0%
+The percentage of tasks assigned to doge that have been completed is:100.0%
+The percentage of tasks assigned to doge that must still be completed is: 0.0%
+The percentage of tasks assigned to doge that have not yet been completed and are overdue is: 0.0%
