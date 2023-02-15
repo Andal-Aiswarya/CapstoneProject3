@@ -1,0 +1,11 @@
+admine, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+bob, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+a, Assign initial tasks, Use taskManager.py to assign each team member, 30 Jan 2023, 01 Jan 2023, Yes
+a, Assign initial tasks, Use taskManager.py to assign each team member, 14 Jan 2023, 01 Jan 2023, Yes
+popo, Assign initial tasks, Use taskManager.py to assign each team member, 01 Jan 2022, 01 Jan 2023, No
+aishu, Assign initial tasks, Use taskManager.py to assign each team member, 12 Jan 2023, 01 Jan 2023, No
+pope, Assign initial tasks, Use taskManager.py to assign each team member, 31 Jan 2023, 01 Jan 2023, No
+newee, Assign initial tasks, Use taskManager.py to assign each team member, 23 Jan 2023, 01 Jan 2023, No
+fore, fored, fored, 01 Jan 2023, 03 Jan 2023, No
+fd, kka llll, ds, 01 Jan 2023, 01 Jan 2023, No
+a, aaaaaaaa, aaaaaaaaaaaaaaaaa, 10 feb 2023, 01 Jan 2023, No
