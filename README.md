@@ -1,4 +1,4 @@
-## CapstoneProject3
+## Task manager
 This is a program for a small business that can help it to manage tasks assigned to each member of the team. 
 Users can do the following options by selecting the appropriate menu.
     •	Register user
